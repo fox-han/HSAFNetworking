@@ -1,0 +1,6 @@
+framework module Pods_HSAFNetworking_Example {
+  umbrella header "Pods-HSAFNetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

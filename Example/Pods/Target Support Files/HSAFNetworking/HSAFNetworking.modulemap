@@ -1,0 +1,6 @@
+framework module HSAFNetworking {
+  umbrella header "HSAFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_HSAFNetworking_Tests {
+  umbrella header "Pods-HSAFNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HSAFNetworking (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HSAFNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  HSAFNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HSAFNetworking: 7286d64688266b37a0a0b69f22283f6979080203
+
+PODFILE CHECKSUM: 8150421097a27b8e7e485905e7222dd77a67c1e2
+
+COCOAPODS: 1.4.0
